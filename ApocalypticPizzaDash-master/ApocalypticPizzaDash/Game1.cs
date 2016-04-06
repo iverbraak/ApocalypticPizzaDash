@@ -110,7 +110,7 @@ namespace ApocalypticPizzaDash
             // initializing Zombie list and addig just one zombie for testing purposes
             zombies = new List<Zombie>();
             zombies.Add(new Zombie(null, new Rectangle(GraphicsDevice.Viewport.Width,
-            GraphicsDevice.Viewport.Height - 75, ZOMBIE_WIDTH, ZOMBIE_HEIGHT), 100));
+            GraphicsDevice.Viewport.Height - 75, ZOMBIE_WIDTH, ZOMBIE_HEIGHT), 3));
 
             // initializing the zombie's Rectangle position as a Vector2 (needed for Draw)
             for (int i = 0; i < zombies.Count; i++)
@@ -181,14 +181,14 @@ namespace ApocalypticPizzaDash
                     if(player.Die())
                     {
                       player = new Player(player.Image, new Rectangle(0, GraphicsDevice.Viewport.Height - 75,
-                      PLAYER_WIDTH, PLAYER_HEIGHT), 3);
+                      PLAYER_WIDTH, PLAYER_HEIGHT), player.TotalHealth);
                     }
 
                     // respawn the zombie
                     if(zombies[0].Die())
                     {
                         zombies[0] = new Zombie(zombies[0].Image, new Rectangle(GraphicsDevice.Viewport.Width,
-                            GraphicsDevice.Viewport.Height - 75, PLAYER_WIDTH, PLAYER_HEIGHT), 100);
+                            GraphicsDevice.Viewport.Height - 75, PLAYER_WIDTH, PLAYER_HEIGHT), zombies[0].TotalHealth);
                     }
 
                     // when the user hits "enter", the game begins
@@ -196,11 +196,20 @@ namespace ApocalypticPizzaDash
                     if(kState.IsKeyDown(Keys.Enter) && kStatePrev.IsKeyUp(Keys.Enter))
                     {
                         gState = GameState.Game;
+                        timer = 600;
                     }
                     kStatePrev = kState;
                     break;
 
                 case GameState.Game:
+
+                    // cause game over if timer runs out
+                    if(timer < 60)
+                    {
+                        gState = GameState.GameOver;
+                        player.CurrentHealth = 0;
+                        zombies[0].CurrentHealth = 0;
+                    }
 
                     // get current keyboard state
                     kState = Keyboard.GetState();
@@ -329,6 +338,9 @@ namespace ApocalypticPizzaDash
                         zombieFrame = zombieFramesElapsed % numZombieFrames + 1;
                         
                     }
+
+                    // decrement the timer
+                    timer--;
                     break;
 
                 case GameState.GameOver:
@@ -377,8 +389,17 @@ namespace ApocalypticPizzaDash
                         // draw the in-game backdrop
                         spriteBatch.Draw(backdrop, new Rectangle(0, 0, 800, 450), Color.White);
 
-                        // draw the player's health and zombie's health
+                        int minutes = (int)(timer / 3600);
+                        int seconds = (int)(timer / 60);
+                        string timeDisplay = "Time: " + minutes + ":" + seconds;
+                        if(seconds < 10)
+                        {
+                            timeDisplay = "Time: " + minutes + ":0" + seconds;
+                        }
+
+                        // draw the player's health, the timer, and the zombie's health
                         spriteBatch.DrawString(testFont, "Player health: " + player.CurrentHealth, new Vector2(0, 0), Color.Black);
+                        spriteBatch.DrawString(testFont, timeDisplay, new Vector2(325, 0), Color.Black);
                         spriteBatch.DrawString(testFont, "Zombie health: " + zombies[0].CurrentHealth, new Vector2(GraphicsDevice.Viewport.Width - 200, 0), Color.Black);
                         
                         // test if player is colliding with zombie on current frame
