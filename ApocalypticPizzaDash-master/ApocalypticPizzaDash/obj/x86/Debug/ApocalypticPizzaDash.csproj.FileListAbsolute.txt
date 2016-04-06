@@ -1,0 +1,87 @@
+\\banner.main.ad.rit.edu\students\cxs5805\IGMProfile\Desktop\ApocalypticPizzaDash-master\ApocalypticPizzaDash-master\ApocalypticPizzaDash\bin\WindowsGL\Debug\Content\backdrop.png
+\\banner.main.ad.rit.edu\students\cxs5805\IGMProfile\Desktop\ApocalypticPizzaDash-master\ApocalypticPizzaDash-master\ApocalypticPizzaDash\bin\WindowsGL\Debug\Content\BG-1.png
+\\banner.main.ad.rit.edu\students\cxs5805\IGMProfile\Desktop\ApocalypticPizzaDash-master\ApocalypticPizzaDash-master\ApocalypticPizzaDash\bin\WindowsGL\Debug\Content\gameover.png
+\\banner.main.ad.rit.edu\students\cxs5805\IGMProfile\Desktop\ApocalypticPizzaDash-master\ApocalypticPizzaDash-master\ApocalypticPizzaDash\bin\WindowsGL\Debug\Content\Pizzagirl.png
+\\banner.main.ad.rit.edu\students\cxs5805\IGMProfile\Desktop\ApocalypticPizzaDash-master\ApocalypticPizzaDash-master\ApocalypticPizzaDash\bin\WindowsGL\Debug\Content\spritesheet.png
+\\banner.main.ad.rit.edu\students\cxs5805\IGMProfile\Desktop\ApocalypticPizzaDash-master\ApocalypticPizzaDash-master\ApocalypticPizzaDash\bin\WindowsGL\Debug\Content\spritesheet_temp.png
+\\banner.main.ad.rit.edu\students\cxs5805\IGMProfile\Desktop\ApocalypticPizzaDash-master\ApocalypticPizzaDash-master\ApocalypticPizzaDash\bin\WindowsGL\Debug\Content\title screen.png
+\\banner.main.ad.rit.edu\students\cxs5805\IGMProfile\Desktop\ApocalypticPizzaDash-master\ApocalypticPizzaDash-master\ApocalypticPizzaDash\bin\WindowsGL\Debug\Content\Zombie1.png
+\\banner.main.ad.rit.edu\students\cxs5805\IGMProfile\Desktop\ApocalypticPizzaDash-master\ApocalypticPizzaDash-master\ApocalypticPizzaDash\bin\WindowsGL\Debug\Content\Zombie2.png
+\\banner.main.ad.rit.edu\students\cxs5805\IGMProfile\Desktop\ApocalypticPizzaDash-master\ApocalypticPizzaDash-master\ApocalypticPizzaDash\bin\WindowsGL\Debug\Content\Font1.spritefont
+\\banner.main.ad.rit.edu\students\cxs5805\IGMProfile\Desktop\ApocalypticPizzaDash-master\ApocalypticPizzaDash-master\ApocalypticPizzaDash\bin\WindowsGL\Debug\Content\Arial14Bold.xnb
+\\banner.main.ad.rit.edu\students\cxs5805\IGMProfile\Desktop\ApocalypticPizzaDash-master\ApocalypticPizzaDash-master\ApocalypticPizzaDash\bin\WindowsGL\Debug\ApocalypticPizzaDash.exe
+\\banner.main.ad.rit.edu\students\cxs5805\IGMProfile\Desktop\ApocalypticPizzaDash-master\ApocalypticPizzaDash-master\ApocalypticPizzaDash\bin\WindowsGL\Debug\ApocalypticPizzaDash.pdb
+\\banner.main.ad.rit.edu\students\cxs5805\IGMProfile\Desktop\ApocalypticPizzaDash-master\ApocalypticPizzaDash-master\ApocalypticPizzaDash\bin\WindowsGL\Debug\MonoGame.Framework.dll
+\\banner.main.ad.rit.edu\students\cxs5805\IGMProfile\Desktop\ApocalypticPizzaDash-master\ApocalypticPizzaDash-master\ApocalypticPizzaDash\bin\WindowsGL\Debug\OpenTK.dll
+\\banner.main.ad.rit.edu\students\cxs5805\IGMProfile\Desktop\ApocalypticPizzaDash-master\ApocalypticPizzaDash-master\ApocalypticPizzaDash\obj\x86\Debug\ApocalypticPizzaDash.csprojResolveAssemblyReference.cache
+\\banner.main.ad.rit.edu\students\cxs5805\IGMProfile\Desktop\ApocalypticPizzaDash-master\ApocalypticPizzaDash-master\ApocalypticPizzaDash\obj\x86\Debug\ApocalypticPizzaDash.exe
+\\banner.main.ad.rit.edu\students\cxs5805\IGMProfile\Desktop\ApocalypticPizzaDash-master\ApocalypticPizzaDash-master\ApocalypticPizzaDash\obj\x86\Debug\ApocalypticPizzaDash.pdb
+\\banner.main.ad.rit.edu\students\cxs5805\IGMProfile\Desktop\ApocalypticPizzaDash-master\ApocalypticPizzaDash-master\ApocalypticPizzaDash\bin\WindowsGL\Debug\Content\pause screen.png
+D:\Users\cxs5805\ApocalypticPizzaDash-master\ApocalypticPizzaDash-master\ApocalypticPizzaDash\obj\x86\Debug\ApocalypticPizzaDash.exe
+D:\Users\cxs5805\ApocalypticPizzaDash-master\ApocalypticPizzaDash-master\ApocalypticPizzaDash\obj\x86\Debug\ApocalypticPizzaDash.pdb
+D:\Users\cxs5805\ApocalypticPizzaDash-master\ApocalypticPizzaDash-master\ApocalypticPizzaDash\bin\WindowsGL\Debug\Content\backdrop.png
+D:\Users\cxs5805\ApocalypticPizzaDash-master\ApocalypticPizzaDash-master\ApocalypticPizzaDash\bin\WindowsGL\Debug\Content\BG-1.png
+D:\Users\cxs5805\ApocalypticPizzaDash-master\ApocalypticPizzaDash-master\ApocalypticPizzaDash\bin\WindowsGL\Debug\Content\gameover.png
+D:\Users\cxs5805\ApocalypticPizzaDash-master\ApocalypticPizzaDash-master\ApocalypticPizzaDash\bin\WindowsGL\Debug\Content\pause screen.png
+D:\Users\cxs5805\ApocalypticPizzaDash-master\ApocalypticPizzaDash-master\ApocalypticPizzaDash\bin\WindowsGL\Debug\Content\Pizzagirl.png
+D:\Users\cxs5805\ApocalypticPizzaDash-master\ApocalypticPizzaDash-master\ApocalypticPizzaDash\bin\WindowsGL\Debug\Content\spritesheet.png
+D:\Users\cxs5805\ApocalypticPizzaDash-master\ApocalypticPizzaDash-master\ApocalypticPizzaDash\bin\WindowsGL\Debug\Content\spritesheet_temp.png
+D:\Users\cxs5805\ApocalypticPizzaDash-master\ApocalypticPizzaDash-master\ApocalypticPizzaDash\bin\WindowsGL\Debug\Content\title screen.png
+D:\Users\cxs5805\ApocalypticPizzaDash-master\ApocalypticPizzaDash-master\ApocalypticPizzaDash\bin\WindowsGL\Debug\Content\Zombie1.png
+D:\Users\cxs5805\ApocalypticPizzaDash-master\ApocalypticPizzaDash-master\ApocalypticPizzaDash\bin\WindowsGL\Debug\Content\Zombie2.png
+D:\Users\cxs5805\ApocalypticPizzaDash-master\ApocalypticPizzaDash-master\ApocalypticPizzaDash\bin\WindowsGL\Debug\Content\Font1.spritefont
+D:\Users\cxs5805\ApocalypticPizzaDash-master\ApocalypticPizzaDash-master\ApocalypticPizzaDash\bin\WindowsGL\Debug\Content\Arial14Bold.xnb
+D:\Users\cxs5805\ApocalypticPizzaDash-master\ApocalypticPizzaDash-master\ApocalypticPizzaDash\bin\WindowsGL\Debug\ApocalypticPizzaDash.exe
+D:\Users\cxs5805\ApocalypticPizzaDash-master\ApocalypticPizzaDash-master\ApocalypticPizzaDash\bin\WindowsGL\Debug\ApocalypticPizzaDash.pdb
+D:\Users\cxs5805\ApocalypticPizzaDash-master\ApocalypticPizzaDash-master\ApocalypticPizzaDash\bin\WindowsGL\Debug\MonoGame.Framework.dll
+D:\Users\cxs5805\ApocalypticPizzaDash-master\ApocalypticPizzaDash-master\ApocalypticPizzaDash\bin\WindowsGL\Debug\OpenTK.dll
+D:\Users\cxs5805\ApocalypticPizzaDash-master\ApocalypticPizzaDash-master\ApocalypticPizzaDash\obj\x86\Debug\ApocalypticPizzaDash.csprojResolveAssemblyReference.cache
+D:\Users\cxs5805\ApocalypticPizzaDash-master\ApocalypticPizzaDash-master\ApocalypticPizzaDash\bin\WindowsGL\Debug\Content\paused.png
+D:\Users\cxs5805\ApocalypticPizzaDash-master - Copy\ApocalypticPizzaDash-master\ApocalypticPizzaDash\obj\x86\Debug\ApocalypticPizzaDash.exe
+D:\Users\cxs5805\ApocalypticPizzaDash-master - Copy\ApocalypticPizzaDash-master\ApocalypticPizzaDash\obj\x86\Debug\ApocalypticPizzaDash.pdb
+D:\Users\cxs5805\ApocalypticPizzaDash-master - Copy\ApocalypticPizzaDash-master\ApocalypticPizzaDash\bin\WindowsGL\Debug\Content\backdrop.png
+D:\Users\cxs5805\ApocalypticPizzaDash-master - Copy\ApocalypticPizzaDash-master\ApocalypticPizzaDash\bin\WindowsGL\Debug\Content\BG-1.png
+D:\Users\cxs5805\ApocalypticPizzaDash-master - Copy\ApocalypticPizzaDash-master\ApocalypticPizzaDash\bin\WindowsGL\Debug\Content\gameover.png
+D:\Users\cxs5805\ApocalypticPizzaDash-master - Copy\ApocalypticPizzaDash-master\ApocalypticPizzaDash\bin\WindowsGL\Debug\Content\pause screen.png
+D:\Users\cxs5805\ApocalypticPizzaDash-master - Copy\ApocalypticPizzaDash-master\ApocalypticPizzaDash\bin\WindowsGL\Debug\Content\paused.png
+D:\Users\cxs5805\ApocalypticPizzaDash-master - Copy\ApocalypticPizzaDash-master\ApocalypticPizzaDash\bin\WindowsGL\Debug\Content\Pizzagirl.png
+D:\Users\cxs5805\ApocalypticPizzaDash-master - Copy\ApocalypticPizzaDash-master\ApocalypticPizzaDash\bin\WindowsGL\Debug\Content\spritesheet.png
+D:\Users\cxs5805\ApocalypticPizzaDash-master - Copy\ApocalypticPizzaDash-master\ApocalypticPizzaDash\bin\WindowsGL\Debug\Content\spritesheet_temp.png
+D:\Users\cxs5805\ApocalypticPizzaDash-master - Copy\ApocalypticPizzaDash-master\ApocalypticPizzaDash\bin\WindowsGL\Debug\Content\title screen.png
+D:\Users\cxs5805\ApocalypticPizzaDash-master - Copy\ApocalypticPizzaDash-master\ApocalypticPizzaDash\bin\WindowsGL\Debug\Content\Zombie1.png
+D:\Users\cxs5805\ApocalypticPizzaDash-master - Copy\ApocalypticPizzaDash-master\ApocalypticPizzaDash\bin\WindowsGL\Debug\Content\Zombie2.png
+D:\Users\cxs5805\ApocalypticPizzaDash-master - Copy\ApocalypticPizzaDash-master\ApocalypticPizzaDash\bin\WindowsGL\Debug\Content\Font1.spritefont
+D:\Users\cxs5805\ApocalypticPizzaDash-master - Copy\ApocalypticPizzaDash-master\ApocalypticPizzaDash\bin\WindowsGL\Debug\Content\Arial14Bold.xnb
+D:\Users\cxs5805\ApocalypticPizzaDash-master - Copy\ApocalypticPizzaDash-master\ApocalypticPizzaDash\bin\WindowsGL\Debug\ApocalypticPizzaDash.exe
+D:\Users\cxs5805\ApocalypticPizzaDash-master - Copy\ApocalypticPizzaDash-master\ApocalypticPizzaDash\bin\WindowsGL\Debug\ApocalypticPizzaDash.pdb
+D:\Users\cxs5805\ApocalypticPizzaDash-master - Copy\ApocalypticPizzaDash-master\ApocalypticPizzaDash\bin\WindowsGL\Debug\MonoGame.Framework.dll
+D:\Users\cxs5805\ApocalypticPizzaDash-master - Copy\ApocalypticPizzaDash-master\ApocalypticPizzaDash\bin\WindowsGL\Debug\OpenTK.dll
+D:\Users\cxs5805\ApocalypticPizzaDash-master - Copy\ApocalypticPizzaDash-master\ApocalypticPizzaDash\obj\x86\Debug\ApocalypticPizzaDash.csprojResolveAssemblyReference.cache
+\\banner.main.ad.rit.edu\students\cxs5805\IGMProfile\Desktop\ApocalypticPizzaDash-master\ApocalypticPizzaDash-master\ApocalypticPizzaDash\bin\WindowsGL\Debug\Content\attack.png
+\\banner.main.ad.rit.edu\students\cxs5805\IGMProfile\Desktop\ApocalypticPizzaDash-master\ApocalypticPizzaDash-master\ApocalypticPizzaDash\bin\WindowsGL\Debug\Content\paused.png
+D:\Users\cxs5805\ApocalypticPizzaDash-master\ApocalypticPizzaDash-master\ApocalypticPizzaDash\bin\WindowsGL\Debug\Content\attack.png
+D:\Users\cxs5805\ApocalypticPizzaDash-master\ApocalypticPizzaDash-master\ApocalypticPizzaDash\bin\WindowsGL\Debug\Content\attack2.png
+\\banner.main.ad.rit.edu\students\cxs5805\IGMProfile\Desktop\ApocalypticPizzaDash-master\ApocalypticPizzaDash\obj\x86\Debug\ApocalypticPizzaDash.exe
+\\banner.main.ad.rit.edu\students\cxs5805\IGMProfile\Desktop\ApocalypticPizzaDash-master\ApocalypticPizzaDash\obj\x86\Debug\ApocalypticPizzaDash.pdb
+D:\Users\cxs5805\ApocalypticPizzaDash-master\ApocalypticPizzaDash\obj\x86\Debug\ApocalypticPizzaDash.exe
+D:\Users\cxs5805\ApocalypticPizzaDash-master\ApocalypticPizzaDash\obj\x86\Debug\ApocalypticPizzaDash.pdb
+D:\Users\cxs5805\ApocalypticPizzaDash-master\ApocalypticPizzaDash\bin\WindowsGL\Debug\Content\attack.png
+D:\Users\cxs5805\ApocalypticPizzaDash-master\ApocalypticPizzaDash\bin\WindowsGL\Debug\Content\attack2.png
+D:\Users\cxs5805\ApocalypticPizzaDash-master\ApocalypticPizzaDash\bin\WindowsGL\Debug\Content\backdrop.png
+D:\Users\cxs5805\ApocalypticPizzaDash-master\ApocalypticPizzaDash\bin\WindowsGL\Debug\Content\BG-1.png
+D:\Users\cxs5805\ApocalypticPizzaDash-master\ApocalypticPizzaDash\bin\WindowsGL\Debug\Content\gameover.png
+D:\Users\cxs5805\ApocalypticPizzaDash-master\ApocalypticPizzaDash\bin\WindowsGL\Debug\Content\pause screen.png
+D:\Users\cxs5805\ApocalypticPizzaDash-master\ApocalypticPizzaDash\bin\WindowsGL\Debug\Content\paused.png
+D:\Users\cxs5805\ApocalypticPizzaDash-master\ApocalypticPizzaDash\bin\WindowsGL\Debug\Content\Pizzagirl.png
+D:\Users\cxs5805\ApocalypticPizzaDash-master\ApocalypticPizzaDash\bin\WindowsGL\Debug\Content\spritesheet.png
+D:\Users\cxs5805\ApocalypticPizzaDash-master\ApocalypticPizzaDash\bin\WindowsGL\Debug\Content\spritesheet_temp.png
+D:\Users\cxs5805\ApocalypticPizzaDash-master\ApocalypticPizzaDash\bin\WindowsGL\Debug\Content\title screen.png
+D:\Users\cxs5805\ApocalypticPizzaDash-master\ApocalypticPizzaDash\bin\WindowsGL\Debug\Content\Zombie1.png
+D:\Users\cxs5805\ApocalypticPizzaDash-master\ApocalypticPizzaDash\bin\WindowsGL\Debug\Content\Zombie2.png
+D:\Users\cxs5805\ApocalypticPizzaDash-master\ApocalypticPizzaDash\bin\WindowsGL\Debug\Content\Font1.spritefont
+D:\Users\cxs5805\ApocalypticPizzaDash-master\ApocalypticPizzaDash\bin\WindowsGL\Debug\Content\Arial14Bold.xnb
+D:\Users\cxs5805\ApocalypticPizzaDash-master\ApocalypticPizzaDash\bin\WindowsGL\Debug\ApocalypticPizzaDash.exe
+D:\Users\cxs5805\ApocalypticPizzaDash-master\ApocalypticPizzaDash\bin\WindowsGL\Debug\ApocalypticPizzaDash.pdb
+D:\Users\cxs5805\ApocalypticPizzaDash-master\ApocalypticPizzaDash\bin\WindowsGL\Debug\MonoGame.Framework.dll
+D:\Users\cxs5805\ApocalypticPizzaDash-master\ApocalypticPizzaDash\bin\WindowsGL\Debug\OpenTK.dll
+D:\Users\cxs5805\ApocalypticPizzaDash-master\ApocalypticPizzaDash\obj\x86\Debug\ApocalypticPizzaDash.csprojResolveAssemblyReference.cache
